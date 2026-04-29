@@ -6,7 +6,7 @@
 
 ## 📊 簡報
 
-👉 **[線上簡報（GitHub Pages）](https://mxp.tw/ai-agent-slides/ai-agent-slides.html)**
+👉 **[線上簡報（GitHub Pages）](https://nczz.github.io/ai-agent-slides/ai-agent-slides.html)**
 
 本研究的結論簡報，用 Marp 從 Markdown 生成，本身就是研究成果的實證。
 
